@@ -1,0 +1,4 @@
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\Mini_invintory\Mini_invintory\obj\Debug\net11.0\Mini_invintory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\Mini_invintory\Mini_invintory\obj\Debug\net11.0\Mini_invintory.AssemblyInfoInputs.cache
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\Mini_invintory\Mini_invintory\obj\Debug\net11.0\Mini_invintory.AssemblyInfo.cs
+C:\Users\tugsbayar.galbadrak\Documents\Programering 2\Mini_invintory\Mini_invintory\obj\Debug\net11.0\Mini_invintory.csproj.CoreCompileInputs.cache
